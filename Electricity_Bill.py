@@ -1,5 +1,6 @@
 units=int(input())
 surcharge=0
+surcharge=0
 if units<=199:
     cpu=1.20
 elif units>=200 and units <400:
